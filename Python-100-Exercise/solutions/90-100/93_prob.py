@@ -33,14 +33,11 @@ strs = 'madan'
 result = closest_palindrome(s=strs)
 print(result)
 
-strs = 'radivider'
-result = closest_palindrome(s=strs)
-print(result)
-
-strs = 'azizaasisa'
-# strs = 'asisaaziza'
-result = closest_palindrome(s=strs)
-print(result)
-
-
-
+# strs = 'radivider'
+# result = closest_palindrome(s=strs)
+# print(result)
+#
+# strs = 'azizaasisa'
+# # strs = 'asisaaziza'
+# result = closest_palindrome(s=strs)
+# print(result)
